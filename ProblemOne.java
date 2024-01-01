@@ -5,6 +5,7 @@
 
 class ProblemOne{
  {
+    class Solution{
     
 	public static String encode(String str)
 	{
@@ -24,6 +25,6 @@ class ProblemOne{
         return sb.toString();
 	}
     
-	
+}
  }
 }
